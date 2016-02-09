@@ -1,0 +1,6 @@
+{
+    "require": {
+        "chobie/jira-api-restclient": "dev-master",
+        "twbs/bootstrap": "^3.3"
+    }
+}
